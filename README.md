@@ -1,5 +1,5 @@
 <h1>Facebuk</h1>
-<p>This is just an imitation page of the actual Facebook homepage built with HTML, CSS, Bootstrap, Javascript and PHP.</p>
+<p>This project is just an imitation page of the actual Facebook homepage built with HTML, CSS, Bootstrap, Javascript and PHP.</p>
 
 <h2>Project setup</h2>
 <ul>
